@@ -14,7 +14,7 @@ This project demonstrates a machine learning pipeline for predicting Titanic sur
   - Constructs a neural network using Keras Functional API.
   - Includes normalization and category encoding layers.
 - **Training and Evaluation**:
-  - Trains the model using Adagrad optimizer and binary cross-entropy loss.
+  - Trains the model using adam optimizer and mse.
   - Evaluates the model on a test dataset.
 
 ## Requirements
